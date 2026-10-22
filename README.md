@@ -182,7 +182,7 @@ The full write-up, with the input tables and every figure, is in `ACC_Heat_Analy
 
 ## Run it
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/accelerated_cooling_fdm/blob/main/ACC_Heat_Analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/steel-plate-cooling-fdm/blob/main/ACC_Heat_Analysis.ipynb)
 
 Colab has numpy and matplotlib, which is all the thermal model needs. Locally:
 
